@@ -21,6 +21,53 @@ where accessibility issues occur on the page. To accomplish this, it analyzes th
 > #### End Users Ultimately Benefit:
 > * When web pages are accessible, everyone can efficiently perceive, understand, navigate, and interact with the Web.
 
+```
+javascript:void((function(){andiScript=document.createElement('script');andiScript.setAttribute('src','https://srbala.com/ANDI/andi.js');document.body.appendChild(andiScript)})());
+```
+
+## Installation Instructions
+
+Drag and Drop this link: ANDI into your browser's favorites/bookmark bar.  Hide Accessible Instructions
+
+### Internet Explorer
+
+Ensure that IE's Favorites Bar is visible, then choose one installation method:
+
+#### Mouse Users
+
+* Right click this link: ANDI and select "Add to favorites bar"
+* Or drag and drop this link ANDI into the Favorites Bar.
+
+#### Keyboard Only Users
+
+* Keyboard Users can tab to this link: ANDI, press shift+F10 (which brings up a context menu) and select "Add to favorites bar"
+
+ANDI is now installed to IE and ready to be launched.
+
+### Firefox
+
+Ensure that Firefox's Bookmarks Toolbar is visible, then choose one installation method:
+
+#### Mouse Users
+
+* Mouse users can right click this link: ANDI and select "Bookmark This Link". Add it to the Bookmarks Toolbar.
+* Or drag and drop this link ANDI into Bookmarks Toolbar.
+
+#### Keyboard Only Users
+
+* Keyboard users can tab to this link: ANDI, press shift+F10 (which brings up a context menu) and select "Bookmark This Link". Add it to the Bookmarks Toolbar.
+
+ANDI is now installed to Firefox and ready to be launched.
+
+### Chrome
+
+Ensure that Chrome's Bookmarks Bar is set to always show.
+
+* Now drag and drop this link: ANDI to the Bookmarks Bar.
+* Unfortunately, Chrome does not offer a simple keyboard accessible alternative.
+
+ANDI is now installed to Chrome and ready to be launched.
+
 ## Sounds handy! How do I install ANDI?
 
 ANDI is a browser based "favelet" that, essentially, installs with a drag and drop, and is launched with the click of a button. Users can visit this [installation page](https://www.ssa.gov/accessibility/andi/help/install.html) for browser installation instructions (includes keyboard accessible instructions). 
